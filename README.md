@@ -17,3 +17,5 @@
 
 
  </p>
+
+>Hard work beats talent if talent doesn't work hard
