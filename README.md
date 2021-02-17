@@ -1,6 +1,5 @@
-# Hi there , I'm [Yogya!] 👋
-<a href="mailto:yogyasinghal21@gmail.com?hl=en" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+# Hi there , I'm [Yogya!](https://github.com/yogyasinghal) 👋
+
 </a>
 
 <br />
